@@ -26,7 +26,7 @@ It ensures:
 ### 🔷 AWS EC2 Server (Production)
 Application running on AWS EC2 with Docker container logs:
 
-![WhatsApp Image 2026-04-07 at 7 07 09 AM](https://github.com/user-attachments/assets/0cfb2671-3c8a-4daf-b8ff-c20fa031120a)
+![WhatsApp Image 2026-04-07 at 7 07 09 AM (1)](https://github.com/user-attachments/assets/26bfa017-eeeb-4d31-ac3d-416420cee5b2)
 
 
 ### 🔷 Local Development (Docker - Port 8000)
@@ -34,7 +34,7 @@ Application running locally using Docker:
 
 http://localhost:8000
 
-![WhatsApp Image 2026-04-07 at 7 07 09 AM (1)](https://github.com/user-attachments/assets/26bfa017-eeeb-4d31-ac3d-416420cee5b2)
+![WhatsApp Image 2026-04-07 at 7 07 09 AM](https://github.com/user-attachments/assets/0cfb2671-3c8a-4daf-b8ff-c20fa031120a)
 
 
 ## Installation
