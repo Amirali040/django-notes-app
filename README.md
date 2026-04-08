@@ -40,7 +40,7 @@ http://localhost:8000
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/LondheShubham153/django-notes-app.git
+git clone https://github.com/Amirali040/django-notes-app.git
 ```
 
 2. Build the app
